@@ -5,7 +5,7 @@ Dentro de esta carpeta, se contiene el ejercicio desarrollado contenido en HTML 
 ## Ejercicio 2
 Los archivos contenidos aquí, se refieren a poder mostrar l lista de nombres y direcciones respectivas de una lista de 10 alumnos.
 ## Ejercicio Extra
-Este archivo permite la conversión de grados Celsius a grados Farenheit.
+Esta carpeta contiene archivos que permiten la conversión de grados Celsius a grados Farenheit mediante una tabla, así como un botón calcular.
 ## Git y GitHub
 Como primer paso, se organizaron de manera local las carpetas a trabajar.
 Seguidamente, se creó un *nuevo repositorio* en **GitHub** con el nombre de *"ejerciciosHTML"* incializandose con un ***README.md***, al crearlo se copió la URL del mismo.
